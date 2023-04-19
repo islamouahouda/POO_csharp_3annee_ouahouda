@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\bin\Debug\net6.0-windows\DatabaseManagementSystem.UI.exe
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\bin\Debug\net6.0-windows\DatabaseManagementSystem.UI.deps.json
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\bin\Debug\net6.0-windows\DatabaseManagementSystem.UI.runtimeconfig.json
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\bin\Debug\net6.0-windows\DatabaseManagementSystem.UI.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\bin\Debug\net6.0-windows\DatabaseManagementSystem.UI.pdb
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.Form1.resources
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\refint\DatabaseManagementSystem.UI.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.pdb
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\DatabaseManagementSystem.UI.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.UI\obj\Debug\net6.0-windows\ref\DatabaseManagementSystem.UI.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DatabaseManagementSystem.Tests/1.0.0": {
+        "dependencies": {
+          "DatabaseManagementSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "DatabaseManagementSystem.Tests.dll": {}
+        }
+      },
+      "DatabaseManagementSystem.Core/1.0.0": {
+        "runtime": {
+          "DatabaseManagementSystem.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatabaseManagementSystem.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseManagementSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

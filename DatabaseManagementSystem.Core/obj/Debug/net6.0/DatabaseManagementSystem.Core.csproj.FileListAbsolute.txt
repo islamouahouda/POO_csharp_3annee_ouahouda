@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\bin\Debug\net6.0\DatabaseManagementSystem.Core.deps.json
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\bin\Debug\net6.0\DatabaseManagementSystem.Core.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\bin\Debug\net6.0\DatabaseManagementSystem.Core.pdb
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\refint\DatabaseManagementSystem.Core.dll
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\DatabaseManagementSystem.Core.pdb
+C:\Users\Administrator\source\repos\DatabaseManagementSystem\DatabaseManagementSystem.Core\obj\Debug\net6.0\ref\DatabaseManagementSystem.Core.dll
