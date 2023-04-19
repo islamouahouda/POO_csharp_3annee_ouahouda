@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.UI\\DatabaseManagementSystem.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.UI\\DatabaseManagementSystem.UI.csproj",
       "projectName": "DatabaseManagementSystem.UI",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.UI\\DatabaseManagementSystem.UI.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.UI\\DatabaseManagementSystem.UI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.UI\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

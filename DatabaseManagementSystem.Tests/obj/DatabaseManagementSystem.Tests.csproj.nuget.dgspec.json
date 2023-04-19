@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj",
         "projectName": "DatabaseManagementSystem.Core",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj",
         "projectName": "DatabaseManagementSystem.Tests",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Tests\\DatabaseManagementSystem.Tests.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj"
+              "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\source\\repos\\DatabaseManagementSystem\\POO_csharp_3annee_ouahouda\\DatabaseManagementSystem.Core\\DatabaseManagementSystem.Core.csproj"
               }
             }
           }
